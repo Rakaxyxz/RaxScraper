@@ -9,4 +9,5 @@ Bot yang mampu membantu kamu mendapatkan API_ID dan API_HASH
 # OWNER
 
 <a href="https://t.me/kenkanasw"><img src="https://img.shields.io/badge/KEN KAN-black?style=for-the-badge&logo=telegram" /></a>
+<a href="https://t.me/kenkanrobot"><img src="https://img.shields.io/badge/DEMO-BOT-gold?style=for-the-badge&logo=telegram" /></a>
 
