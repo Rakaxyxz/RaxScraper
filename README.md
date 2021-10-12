@@ -1,6 +1,7 @@
 # RAXS-SCRAPPER
 
-src="https://telegra.ph/file/aec6cbc4249c30b1a0301.jpg.jpg"
+[<img src="https://telegra.ph/file/aec6cbc4249c30b1a0301.jpg">](https://t.me/RaxScraper)
+
 
 Bot yang mampu membantu kamu mendapatkan API_ID dan API_HASH
 
