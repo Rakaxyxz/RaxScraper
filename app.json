@@ -1,6 +1,6 @@
 {
-  "name": "Scarper bot",
-  "description": "get your APP ID and API HASH inside Telegram",
+  "name": "Raxs-Scraper",
+  "description": "Bot Ini bertujuan Untuk Mencari Tahu API_ID dan API_HASH Lu ngentot",
   "keywords": [
     "telegram",
     "best",
@@ -8,9 +8,9 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/kenkannih/scraper-ken",
-  "success_url": "https://t.me/kenkanasw",
-  "website": "https://github.com/kenkannih/scraper-ken",
+  "repository": "https://github.com/Rakaxyxz/RaxsScraper",
+  "success_url": "https://t.me/ImThelastKingMs",
+  "website": "https://github.com/Rakaxyxz/RaxsScraper",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
